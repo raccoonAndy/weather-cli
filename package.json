@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://kotandy.pro",
     "email": "byhachi11@gmail.com"
+  },
+  "dependencies": {
+    "axios": "0.25.0"
   }
 }
