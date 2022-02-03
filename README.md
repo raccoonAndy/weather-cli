@@ -1,0 +1,3 @@
+# Education project
+
+## Weather CLI
