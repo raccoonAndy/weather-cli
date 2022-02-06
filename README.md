@@ -1,6 +1,6 @@
 # Weather CLI
 
-It's just education project about Node.js and working with File System.
+It's just education project about Node.js from a course ["Node.js"](https://www.udemy.com/course/nodejs-start/).
 
 This CLI show in terminal a small information about weather in city, which you enter.
 
