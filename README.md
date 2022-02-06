@@ -4,7 +4,7 @@ It's just education project about Node.js and working with File System.
 
 This CLI show in terminal a small information about weather in city, which you enter.
 
-![Screenshot of terminal with output Weather CLI](/terminal_screenshot.png)
+![Screenshot of terminal with output Weather CLI](https://assets.codepen.io/108082/terminal_screenshot.png)
 
 ## How to use
 

@@ -1,6 +1,6 @@
 {
   "name": "@kotandy/weather_cli",
-  "version": "1.0.0-development",
+  "version": "1.0.3-development",
   "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {
