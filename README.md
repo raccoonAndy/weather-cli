@@ -1,8 +1,8 @@
 # Weather CLI
 
-It's just education project about Node.js from a course ["Node.js"](https://www.udemy.com/course/nodejs-start/).
+It's an education project about Node.js from a course ["Node.js"](https://www.udemy.com/course/nodejs-start/).
 
-This CLI show in terminal a small information about weather in city, which you enter.
+This CLI for terminal shows a small information about the weather in a city, which you enter.
 
 ![Screenshot of terminal with output Weather CLI](https://assets.codepen.io/108082/terminal_screenshot.png)
 
@@ -17,7 +17,7 @@ weather -t [API_KEY] # https://openweathermap.org/faq. Use only once.
 weather -s [CITY] # set city and get the weather. You can use it only once or for changing city
 ```
 
-Or just executed with `npx`:
+Or executed with `npx`:
 
 ```zsh
 # npx
